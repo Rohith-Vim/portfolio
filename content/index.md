@@ -8,7 +8,7 @@ My name is Rohith Vimal.
 
 To view a project, please choose any of the options from the list below: 👇
 
-- [[R Data Analysis Project - Cyclistic Case Study]]
+- [[Cyclistic User Analysis - R Project]]
 - [[SalesPoint Retail Expansion Analysis - Excel Project]]
   
 Beyond data, I'm an avid reader, writer and occasional content creator, ever-striving for ways to broaden my horizons and better my world view.

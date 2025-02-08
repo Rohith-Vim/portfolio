@@ -1,5 +1,6 @@
 ---
 title: R Data Analysis Project - Cyclistic Case Study
+draft: true
 ---
 
 ---

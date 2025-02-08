@@ -1,5 +1,5 @@
 ---
-title: Excel Data Analysis Project - SalesPoint Case Study
+title: SalesPoint Retail Expansion Analysis - Excel Project
 ---
 ---
 
@@ -10,6 +10,7 @@ title: Excel Data Analysis Project - SalesPoint Case Study
 > **It is recommended that you download the following report as a PDF for a better viewing experience**.
 > 
 > Alternatively, open the report in full-screen on your browser via this link:
+> 
 > [[SalesPoint Retail Expansion Analysis - Excel Project.pdf]]
 
 
@@ -18,6 +19,5 @@ title: Excel Data Analysis Project - SalesPoint Case Study
 ---
 ### Video Breakdown:
 
-*Coming Soon*
+**Coming Soon**
 
----

@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-### Hello! 👋 TEST
+### Hello! 👋
 
 My name is Rohith Vimal.
 

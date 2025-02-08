@@ -11,7 +11,7 @@ title: Cyclistic User Analysis - R Project
 > 
 > Alternatively, open the report in full-screen on your browser via this link:
 > 
-> [[Cyclistic User Analysis - R Project.pdf]]]]
+> [[Cyclistic User Analysis - R Project.pdf]]
 
 
 ![[Cyclistic User Analysis - R Project.pdf]]

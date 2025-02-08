@@ -12,6 +12,7 @@ My name is Rohith Vimal.
 To view a project, click on the corresponding name in the `Explorer` bar (to the left of this page), or select from the list below:
 
 - [[R Data Analysis Project - Cyclistic Case Study]]
+- [[SalesPoint Project]]
 - [[SalesPoint Retail Expansion Analysis - Excel Portfolio Project.pdf]]
   
 Beyond data, I'm an avid reader, writer and occasional content creator, ever-striving for ways to broaden my horizons and better my world view.

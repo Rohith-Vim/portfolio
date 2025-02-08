@@ -4,6 +4,7 @@ title: Home
 ### Hello! 👋
 
 My name is Rohith Vimal. I'm a student majoring in Business Information Systems at Curtin University.
+
 **This website allows you to view the projects I've worked on over the course of my adventures in data analysis.**
 
 To view a project, please choose any of the options from the list below: 👇
